@@ -1,0 +1,8 @@
+ejecutivos: 3-15
+ventanillas: 5-50
+retiro: 8-15
+deposito: 3-6
+cancelacion: 5-8
+aclaraciones: 20-30
+apertura: 15-25
+tasa de clientes: 1-5 
